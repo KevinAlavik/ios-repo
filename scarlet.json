@@ -1,0 +1,17 @@
+{
+  "META": {
+    "repoName": "Fxck Repo",
+    "repoIcon": "https://raw.githubusercontent.com/KevinAlavik/ios-repo/icons/fxck.png"
+  },
+  "apps": [
+    {
+      "name": "Fxck",
+      "version": "0.1.0",
+      "icon": "https://raw.githubusercontent.com/KevinAlavik/ios-repo/icons/fxck.png",
+      "down": "https://github.com/KevinAlavik/ios-repo/releases/download/ipas/fxck.v.0.1.ipa",
+      "bundleID": "com.puffer.fxck",
+      "category": "Tools",
+      "desc": "A tool to unlock your system"
+    }
+  ]
+}
